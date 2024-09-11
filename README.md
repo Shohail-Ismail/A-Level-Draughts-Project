@@ -30,5 +30,3 @@ However, there are some limitations to this project. Due to time and resource co
 # Running the program
 
 Although the final codebase was not able to be retrieved, the complete documentation of the analysis, design (pseudocode and UI/UX), development, and evaluation is available in the Word document.
-
-Overall, this project has provided me with valuable experience in software development using Java, Java Swing and SQL, as well as incorporating usability features to create a user-friendly program.

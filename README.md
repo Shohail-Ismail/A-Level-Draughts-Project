@@ -1,3 +1,5 @@
+# A-Level Draughts Project
+
 <!--ts-->
    * [Background Information](#background-information)
    * [Core Features](#core-features)

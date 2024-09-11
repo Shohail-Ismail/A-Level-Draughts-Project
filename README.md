@@ -1,8 +1,8 @@
 <!--ts-->
    * [Background Information](#background-information)
    * [Core Features](#core-features)
-   * [Testing](#testing-and-limitations)
-   * [Running The Program](#running-the-program)
+   * [Testing and Limitations](#testing-and-limitations)
+   * [Running the program](#running-the-program)
 
 <!--te-->
 

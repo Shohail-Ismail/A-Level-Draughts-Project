@@ -10,7 +10,7 @@
 
 # Background Information
 
-This project was made for my OCR A-Level NVQ Project and is a fully-functional game of Draughts with a user-friendly interface, complex database interactions and additional functionalities such as verifying emails through temporary passwords, which culminated in me earning an 'A' grade.
+This project was made for my OCR A-Level NVQ Project and is a fully-functional version of Draughts with a user-friendly interface, complex database interactions and additional functionalities such as verifying emails through temporary passwords, which culminated in me earning an 'A' grade.
 
 # Core Features
 
